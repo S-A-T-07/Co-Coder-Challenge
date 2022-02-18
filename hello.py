@@ -1,2 +1,1 @@
-print("hello")
-print("Hi")
+print("1st Python prgrm")
